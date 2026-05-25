@@ -1,5 +1,6 @@
 # CYB-304---assignment
 How to Run Each Practical
+
 Open a terminal, navigate to the practicals folder, and run each file using the commands below.
 
 Practical 1 — API Data Collection
